@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCoreWeb", "TestCoreWeb\TestCoreWeb.csproj", "{722ABC95-0D51-47CB-856B-DEF3C93B1EAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{722ABC95-0D51-47CB-856B-DEF3C93B1EAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{722ABC95-0D51-47CB-856B-DEF3C93B1EAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{722ABC95-0D51-47CB-856B-DEF3C93B1EAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{722ABC95-0D51-47CB-856B-DEF3C93B1EAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
