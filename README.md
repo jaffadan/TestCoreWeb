@@ -1,11 +1,11 @@
 # TestCoreWeb
-A sample containerized website using dotnetcore and docker.
+A sample containerized website using dotnetcore and docker.  the site is the default website created with an ASPNETCORE MVC application.  It is exposed over port 80 in the docker file.
 
-build using
+build using:
 
 docker build -t testcoreweb .
 
--t => tag for image
+-t => tag for image (works like a name, you can reference the images this way)
 
 
 run using 
