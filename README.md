@@ -14,7 +14,7 @@ docker run -d -p 2222:80 --name coresite testcoreweb
 
 -d => detach our terminal
 
--p => port mapping 
+-p => port mapping (localport : containerport)
 
 --name corresponds to a name we want to give to the container we're creating here.
 
