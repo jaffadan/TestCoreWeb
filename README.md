@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/danjaffa/DanJaffaWebDocker/_apis/build/status/DanJaffaWebDocker%20-%20CI)](https://dev.azure.com/danjaffa/DanJaffaWebDocker/_build/latest?definitionId=1)
+
 # TestCoreWeb
 A sample containerized website using dotnetcore and docker.  the site is the default website created with an ASPNETCORE MVC application.  It is exposed over port 80 in the docker file.
 
